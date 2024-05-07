@@ -50,6 +50,4 @@ namespace Cryptlex_Administrator.Classes
         }
 
     }
-
-
 }
